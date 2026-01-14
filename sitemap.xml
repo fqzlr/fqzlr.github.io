@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://bk.682000.xyz/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://bk.682000.xyz/box/nav/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -92,25 +83,7 @@
   </url>
   
   <url>
-    <loc>https://bk.682000.xyz/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://bk.682000.xyz/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bk.682000.xyz/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,7 +110,16 @@
   </url>
   
   <url>
-    <loc>https://bk.682000.xyz/social/fcircle/index.html</loc>
+    <loc>https://bk.682000.xyz/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bk.682000.xyz/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -155,6 +137,24 @@
   </url>
   
   <url>
+    <loc>https://bk.682000.xyz/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bk.682000.xyz/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bk.682000.xyz/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://bk.682000.xyz/site/time/index.html</loc>
+    <loc>https://bk.682000.xyz/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -200,6 +200,13 @@
 
   
   <url>
+    <loc>https://bk.682000.xyz/tags/butterfly/</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://bk.682000.xyz/tags/Markdown/</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -208,13 +215,6 @@
   
   <url>
     <loc>https://bk.682000.xyz/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2026-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://bk.682000.xyz/tags/butterfly/</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -230,14 +230,14 @@
 
   
   <url>
-    <loc>https://bk.682000.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://bk.682000.xyz/categories/butterfly/</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://bk.682000.xyz/categories/butterfly/</loc>
+    <loc>https://bk.682000.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2026-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
