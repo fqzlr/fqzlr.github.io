@@ -1,6 +1,6 @@
 export default {
   // 网站标题
-  Title: '韩小韩博客',
+  Title: 'fqzlr的博客',
   // 网站地址
   Site: 'https://www.vvhan.com',
   // 网站副标题
@@ -23,7 +23,7 @@ export default {
     "I am making progress in the time I haven't shared with you.",
   ],
   // 网站创建时间
-  CreateTime: '2021-09-01',
+  CreateTime: '2026-01-23',
   // 顶部 Banner 配置
   HomeBanner: {
     enable: true,
