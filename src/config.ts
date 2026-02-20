@@ -6,7 +6,7 @@ export default {
   // 网站副标题
   Subtitle: '不曾与你分享的时间,我在进步.',
   // 网站描述
-  Description: '番茄的博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
+  Description: 'fqzlr的博客 乱七八糟的分享生活。',
   // 网站作者
   Author: '.Fqzlr',
   // 作者头像
@@ -64,8 +64,8 @@ export default {
   WebSites: [
     // 仅支持 SVG 且 SVG 需放在 public/assets/images/svg/ 目录下，填入文件名即可 <不需要文件后缀名>（封装了 SVG 组件 为了极致压缩 SVG）
     // 建议使用 https://tabler.io/icons 直接下载 SVG
-    { text: 'Github', link: 'https://github.com/uxiaohan', icon: 'WebSite_github' },
-    { text: '韩小韩API', link: 'https://api.vvhan.com', icon: 'WebSite_api' },
+    { text: 'Github', link: 'https://github.com/fqlzr', icon: 'WebSite_github' },
+    { text: '韩小韩API', link: 'https://home.682000.xyz', icon: 'WebSite_home' },
     { text: '每日热榜', link: 'https://hot.vvhan.com', icon: 'WebSite_hot' },
     { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img' },
     { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: 'WebSite_analytics' },
