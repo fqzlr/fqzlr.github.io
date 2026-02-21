@@ -66,7 +66,7 @@ export default {
     // 建议使用 https://tabler.io/icons 直接下载 SVG
     { text: 'Github', link: 'https://github.com/fqzlr', icon: 'WebSite_github' },
     { text: 'fqzlrのhome', link: 'https://home.682000.xyz', icon: 'WebSite_home' },
-    { text: 'fqzlrの图床', link: 'tu.fqzlr.top', icon: 'WebSite_img' },
+    { text: 'fqzlrの图床', link: 'https://tu.fqzlr.top', icon: 'WebSite_img' },
   ],
   // 侧边栏展示
   AsideShow: {
