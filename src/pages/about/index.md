@@ -1,7 +1,7 @@
 ---
 title: "关于"
 h1: "关于我"
-desc: "Hi there, I’m Han 👋"
+desc: "Hi there, I’m fqzlr 👋"
 layout: "@/layouts/PageLayout/PageLayout.astro"
 type: "about"
 ---
@@ -94,7 +94,7 @@ type: "about"
 |   **终极梦想**    |    **环游世界 / 退休养老🌴**    |
 |  **已飞国家数**   | **0 国（梦游全球 50+ 🌍）** |
 | **核心资质认证** | **国家级干饭人证书持有者** |
-| **商务合作** | **不合作 / 别打扰我 正在和周公洽谈** |
+| **商务合作** | **正在和周公洽谈** |
 
 ## 关于我
 
