@@ -7,78 +7,104 @@ type: "about"
 ---
 
 :::note{type="success"}
-我是韩小韩，一位对技术充满热情、涉猎广泛的探索者，同时也是一名热衷于探索前沿技术的实践者。
+我是fqzlr一位主打「人间凑数」「快乐摸鱼」的生活体验家，解锁了各种有趣的「非专业」技能，热衷于在生活里挖掘快乐，在摆烂中寻找平衡。
 
-我始终保持对新技术的热情，并将我的知识与经验分享在我的博客中。
+我始终保持对躺平的热情，并将我的「摸鱼心得」与「摆烂哲学」分享在我的生活日志中。
 
-我的技术兴趣广泛，涵盖前端工程、云计算、自托管服务、AI 应用以及网络架构优化。我始终相信，优秀的技术人不仅要有深度，更要有广度，因此我不断学习新知识，并将其转化为实际解决方案。
+我的兴趣广泛，涵盖网购砍价、奶茶品鉴、互联网冲浪、职场摸鱼等多个「非专业领域」。我始终相信，优秀的摸鱼人不仅要有摸鱼的深度，更要有摆烂的广度，因此我不断解锁新的摸鱼姿势，并将其转化为生活幸福感。
 
-我期待在这里与你分享我的见解、经验和最新的技术动态。
+我期待在这里与你分享我的摸鱼技巧、摆烂经验和最新的躺平动态。
 :::
 
-**在 Web 开发方面**，我深耕 Vue.js 生态，并且关注了现代 CSS 框架如 Tailwind CSS。同时，对前端构建工具如 Webpack、Rollup 和 Vite 以及代码质量和规范工具如 ESLint 进行了研究，我还关注了前端性能优化，例如代码分割、资源加载策略以及 Astro、Hexo 等现代网站构建工具的使用。
+**🌍 身份档案**
+✈️ 已飞 0 国｜梦游全球 50+
+🙋🏻‍♀️ 中中混血｜华籍华人
+🇨🇳 中国留宿生｜国家级身份证持有者
+👩🏻‍💻 加里敦大学 offer｜清华北大没考｜雅思托福没考
 
-**在后端开发和云计算领域**，我对 Node.js 生态系统非常熟悉，并积极探索 Serverless 架构。我长期使用 Cloudflare Workers、Vercel 和腾讯云 EdgeOne 等平台，优化边缘计算、KV 存储和全球 CDN 加速方案，确保应用的高可用性和低延迟。
+**🛍️ 生活达人**
+👜 TB/PDD 资深买手｜资深砍价王
+🧋 蜜雪冰城 / 奶茶品鉴师｜可乐绿茶品鉴师
+🍰 甜品挖掘机
+🥡 美团外卖五星评委
 
-**在自托管（Homelab）和个人服务器管理方面**，我对个人服务器运维充满热情，搭建了基于 Jellyfin 的媒体中心、Home Assistant 智能家居系统，并利用 OpenWrt 优化家庭网络。在 Linux 系统管理、Docker 容器化部署和自动化脚本方面积累了丰富经验。
+**📷 技能标签**
+📷 自拍精修师
+🏄🏻‍♀️ Internet 冲浪达人｜互联网嘴替
+🎤 国家十级退堂鼓表演艺术家
+🎭 十级抬杠艺术家
+💤 被窝常驻民｜赖床大赛冠军
+🐟 摸鱼大赛种子选手｜职场透明人
+📵 全勤奖绝缘体｜早起打卡没赢过
+🧍‍♀️ 国家级发呆证持有者｜一级拖延症表演艺术家
 
-**在人工智能与大型语言模型（LLMs）领域**，我密切关注 AI 领域的发展，尤其是 DeepSeek、Gemini 和 Claude 等大模型的应用。我尝试将 AI 能力整合到开发流程中，例如自动化文档生成、代码优化辅助，并且对 AI SDK 和相关工具保持关注。
+**🏆 荣誉资质**
+2006 年《时代周刊》年度全球风云人物
+2008 年 “感动中国” 组委会特别奖
+2022 年国际奥委会 “奥林匹克杯” 获奖者
+2023 年新冠疫情幸存者
+诺贝尔文学奖读者｜诺贝尔奖觊觎者｜诺贝尔牛马奖
+中国电信、中国石化 “战略合作伙伴”
+🪪 国家级干饭人证书持有者
 
-**在网络与 DevOps 方面**，我熟悉 DNS 解析、CDN 加速、SSL 证书管理，并研究 TCP/IP、HTTP/3 等协议优化。我实践 Git 工作流、CI/CD 自动化（GitHub Actions / Cloudflare Pages），并利用 Docker 实现开发环境标准化。
+**💻 专业技术**
+擅长 Ai、Fw、Fl、Br、Ae、Pr、Id、Ps 等软件安装与卸载
+精通 CSS、JavaScript、PHP、ASP、C、C++、C#、Java、Ruby、Perl、Lisp、Python、Objective-C、ActionScript、Pascal、spss、sas 等单词拼写
+熟练掌握 Windows、Linux、Mac、Android、iOS、WP 等系统开关机
+熟练掌握汉语｜精通划水语言
 
-**🚀 技术理念**
+**🚀 人生态度**
 
-- **持续学习：** 技术日新月异，我始终保持开放心态，学习新框架、新工具，并评估其适用性。
-- **实践驱动：** 无论是个人项目还是开源贡献，我都倾向于动手实践，而非仅停留在理论层面。
-- **效率优先：** 我注重自动化与工具链优化，减少重复劳动，提升开发体验。
+- **及时行乐：** 人生忽如寄，莫负茶、汤、好天气，赴山海⛰️ 留光影🎬 享生活🌿
+- **佛系躺平：** 莫欺少年穷！莫欺中年穷！莫欺老年穷！主打一个顺其自然的松弛感
+- **快乐优先：** 我注重生活体验与幸福感提升，拒绝无效内卷，享受每一个当下
 
 **🎯 未来方向**
 未来，我计划进一步探索：
 
-- **边缘计算与全球化部署**，优化分布式应用的性能。
-- **AI 增强开发**，探索 LLM 在代码生成、调试和文档管理中的应用。
-- **智能家居与自动化**，结合 Home Assistant 打造更高效的家庭 lab。
+- **全球梦游与环游世界**，解锁更多风景与美食体验。
+- **退休养老前置**，打造属于自己的松弛生活体系。
+- **干饭与甜品深度研究**，成为更专业的国家级干饭人。
 
 ## Languages and Tools
 
 <div class="language-tool">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://www.python.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /></a>
-  <a href="https://webpack.js.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /></a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/网购砍价-F7DF1E?style=for-the-badge&logo=alipay&logoColor=white" alt="网购砍价" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/奶茶品鉴-E34F26?style=for-the-badge&logo=coffeescript&logoColor=white" alt="奶茶品鉴" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/自拍精修-339933?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="自拍精修" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/互联网冲浪-3776AB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="互联网冲浪" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/退堂鼓表演-F05032?style=for-the-badge&logo=music&logoColor=white" alt="退堂鼓表演" /> </a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/抬杠艺术-FCC624?style=for-the-badge&logo=wechat&logoColor=black" alt="抬杠艺术" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/赖床冠军-009639?style=for-the-badge&logo=bed&logoColor=white" alt="赖床冠军" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/职场摸鱼-2496ED?style=for-the-badge&logo=fish&logoColor=white" alt="职场摸鱼" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/发呆大师-4FC08D?style=for-the-badge&logo=brain&logoColor=white" alt="发呆大师" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/拖延症表演-646CFF?style=for-the-badge&logo=hourglass&logoColor=white" alt="拖延症表演" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/干饭达人-8DD6F9?style=for-the-badge&logo=food&logoColor=black" alt="干饭达人" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/甜品挖掘-47848F?style=for-the-badge&logo=cake&logoColor=white" alt="甜品挖掘" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/外卖评分-38B2AC?style=for-the-badge&logo=star&logoColor=white" alt="外卖评分" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/划水语言-F7DF1E?style=for-the-badge&logo=comments&logoColor=black" alt="划水语言" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/软件装卸-003B57?style=for-the-badge&logo=download&logoColor=white" alt="软件装卸" /></a>
+  <a href="#" target="_blank" rel="noopener nofollow"><Image width="1" height="1" src="/assets/images/lazy-loading.webp" data-vh-lz-src="https://img.shields.io/badge/单词拼写-007ACC?style=for-the-badge&logo=keyboard&logoColor=white" alt="单词拼写" /></a>
 </div>
 
-## 小站点
+## 趣味档案
 
-|     主&emsp;页      |       <https://www.4ce.cn>        |
-| :-----------------: | :-------------------------------: |
-|   **博&emsp;客**    |    **<https://www.vvhan.com>**    |
-|  **Web&emsp;API**   |    **<https://api.vvhan.com>**    |
-|  **Han Analytics**  | **<https://analytics.vvhan.com>** |
-| **Cloudflare 优选** |    **<https://cf.vvhan.com>**     |
+|     人生信条      | 人生忽如寄，莫负茶、汤、好天气 |
+| :---------------: | :-----------------------------: |
+|   **终极梦想**    |    **环游世界 / 退休养老🌴**    |
+|  **已飞国家数**   | **0 国（梦游全球 50+ 🌍）** |
+| **核心资质认证** | **国家级干饭人证书持有者** |
+| **商务合作** | **不合作 / 别打扰我 正在和周公洽谈** |
 
-## 联系我
+## 关于我
 
 ```js
 const Han = class {
 	constructor() {
-		const Hello = [123, 34, 110, 97, 109, 101, 34, 58, 34, 38889, 20048, 20048, 34, 44, 34, 101, 109, 97, 105, 108, 34, 58, 34, 49, 54, 53, 53, 52, 54, 54, 51];
-		const EveryOne = [56, 55, 64, 113, 113, 46, 99, 111, 109, 34, 44, 34, 119, 101, 99, 104, 97, 116, 34, 58, 49, 54, 53, 53, 52, 54, 54, 51, 56, 55, 44, 34, 98];
-		const WelcomeTo = [105, 114, 116, 104, 34, 58, 49, 57, 57, 56, 44, 34, 115, 101, 120, 34, 58, 34, 30007, 34, 44, 34, 97, 103, 101, 34, 58, 57, 49, 48, 48, 57, 53];
-		const MineBlog = [51, 55, 54, 48, 48, 48, 44, 34, 114, 101, 109, 111, 118, 101, 34, 58, 51, 49, 53, 53, 54, 57, 53, 49, 57, 57, 57, 46, 57, 57, 57, 57, 57, 54, 125];
+		const Hello = [123, 34, 110, 97, 109, 101, 34, 58, 34, 20154, 38388, 20307, 39564, 23478, 34, 44, 34, 110, 105, 99, 107, 110, 97, 109, 101, 34, 58, 34, 22269, 23478, 32423, 24178, 39277, 20154, 34];
+		const EveryOne = [44, 34, 115, 99, 104, 111, 111, 108, 34, 58, 34, 22902, 33590, 22823, 21697, 20027, 34, 44, 34, 104, 111, 98, 98, 121, 34, 58, 34, 22902, 33590, 30007, 21697, 36182, 23614, 25163, 40060];
+		const WelcomeTo = [34, 44, 34, 109, 111, 116, 116, 111, 34, 58, 34, 20154, 29983, 24573, 22914, 23884, 65292, 33707, 36127, 33590, 12289, 27748, 22909, 27668, 34, 44, 34, 97, 103, 101, 34, 58, 57, 49, 48, 48, 57, 53, 51, 53, 55, 54, 48, 48, 48];
+		const MineBlog = [44, 34, 114, 101, 109, 111, 118, 101, 34, 58, 51, 49, 53, 51, 54, 48, 48, 48, 48, 48, 125];
 		const AboutMe = JSON.parse(String.fromCharCode.apply(null, [...Hello, ...EveryOne, ...WelcomeTo, ...MineBlog]));
 		AboutMe.age = (Date.now() - AboutMe.age) / AboutMe.remove;
 		delete AboutMe.remove && console.log(AboutMe);
