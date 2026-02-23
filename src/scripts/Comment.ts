@@ -23,15 +23,26 @@ const WalineFn = async (commentDOM: string, walineInit: any) => {
   import('@waline/client/waline-meta.css');
   const { init } = await import('@waline/client');
   walineInit = init({
-    el: commentDOM, path: window.location.pathname.replace(/\/$/, ''), serverURL: SITE_INFO.Comment.Waline.serverURL,
-    emoji: ['https://registry.npmmirror.com/@waline/emojis/1.3.0/files/alus', 'https://registry.npmmirror.com/@waline/emojis/1.3.0/files/bilibili', 'https://registry.npmmirror.com/@waline/emojis/1.3.0/files/bmoji', 'https://registry.npmmirror.com/@waline/emojis/1.3.0/files/qq', 'https://registry.npmmirror.com/@waline/emojis/1.3.0/files/tieba', 'https://registry.npmmirror.com/@waline/emojis/1.3.0/files/weibo', 'https://registry.npmmirror.com/@waline/emojis/1.3.0/files/soul-emoji'],
+    el: commentDOM, 
+    path: window.location.pathname.replace(/\/$/, ''), 
+    serverURL: SITE_INFO.Comment.Waline.serverURL,
+    // 核心修改：替换为 jsdelivr CDN（无跨域限制）
+    emoji: [
+      'https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/alus',
+      'https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/bilibili',
+      'https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/bmoji',
+      'https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/qq',
+      'https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/tieba',
+      'https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/weibo',
+      'https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/soul-emoji'
+    ],
     reaction: [
-      "https://registry.npmmirror.com/@waline/emojis/1.3.0/files/tieba/tieba_agree.png",
-      "https://registry.npmmirror.com/@waline/emojis/1.3.0/files/tieba/tieba_look_down.png",
-      "https://registry.npmmirror.com/@waline/emojis/1.3.0/files/tieba/tieba_sunglasses.png",
-      "https://registry.npmmirror.com/@waline/emojis/1.3.0/files/tieba/tieba_pick_nose.png",
-      "https://registry.npmmirror.com/@waline/emojis/1.3.0/files/tieba/tieba_awkward.png",
-      "https://registry.npmmirror.com/@waline/emojis/1.3.0/files/tieba/tieba_sleep.png",
+      "https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/tieba/tieba_agree.png",
+      "https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/tieba/tieba_look_down.png",
+      "https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/tieba/tieba_sunglasses.png",
+      "https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/tieba/tieba_pick_nose.png",
+      "https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/tieba/tieba_awkward.png",
+      "https://cdn.jsdelivr.net/npm/@waline/emojis@1.3.0/tieba/tieba_sleep.png",
     ],
     requiredMeta: ['nick', 'mail'],
     imageUploader: async (file: any) => {
